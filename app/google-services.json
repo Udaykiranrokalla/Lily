@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "652344209687",
+    "firebase_url": "https://lily-de633.firebaseio.com",
+    "project_id": "lily-de633",
+    "storage_bucket": "lily-de633.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652344209687:android:01cb7d7b16de174f0a0752",
+        "android_client_info": {
+          "package_name": "com.example.lily"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652344209687-erg7ibdfgcq23t7kguof1fv3bqg7n310.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lily",
+            "certificate_hash": "22a6c07e30d3f01b98873fbd75a1b9ce3458457b"
+          }
+        },
+        {
+          "client_id": "652344209687-qge8i4gmmfcko8lsbe6hkvl4tuftgh5p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKEfkcoPNuNxcCR4AFTUz1vM6kWOCepxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652344209687-qge8i4gmmfcko8lsbe6hkvl4tuftgh5p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
